@@ -14,6 +14,9 @@ Tools Used:
 - Network Monitoring: Wireshark
 
 Architecture Diagram
+<img width="3844" height="404" alt="image" src="https://github.com/user-attachments/assets/9514924f-7398-46e2-9f09-b12c6b66bbbf" />
+
+
 
 # :crossed_swords: Simulated Attacks
 
