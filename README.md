@@ -1,4 +1,4 @@
-# :lock: Home SOC Lab Project
+# :shield: Home SOC Lab Project
 
 # :pushpin: Project Overview
 
